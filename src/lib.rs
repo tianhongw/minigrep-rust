@@ -1,5 +1,5 @@
 pub mod config;
-pub mod test;
+mod test;
 
 use std::error::Error;
 use std::fs;
